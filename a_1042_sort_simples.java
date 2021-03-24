@@ -9,8 +9,6 @@ public class a_1042_sort_simples {
 
 		List<Integer> list = new ArrayList<>();
 
-		// ALOCA MEMÓRIA PARA 10 INTEIROS
-
 		for (int i = 0; i <= 2; i++) {
 			num[i] = sc.nextInt();
 			list.add(num[i]);
@@ -23,7 +21,7 @@ public class a_1042_sort_simples {
 
 		System.out.println();
 
-		System.out.println(list+"\n");
+		System.out.println(list + "\n");
 
 	}
 
